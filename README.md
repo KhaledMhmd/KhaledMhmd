@@ -1,7 +1,4 @@
 ## Hi there, I'm Khaled 👋
-
-# _**KHALED MOHAMED**_ 
-
 ![Image of cartoonish character on a laptop](https://i.imgur.com/Bu9WvET.jpg)
 
 
