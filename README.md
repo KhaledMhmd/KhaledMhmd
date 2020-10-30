@@ -1,5 +1,5 @@
-## Hi there, I'm Khaled 👋
-![Image of info and a design of a guy on a computer](https://i.imgur.com/bs4jKMC.jpg)
+## Hi there, I'm Khaled 👋:computer:
+![Image of info and a design of a guy on a computer](https://i.imgur.com/jGQ4j5L.jpg)
 
 #### A web developer who's learning to master his craft, and on my github is where I'll be posting my projects and any adjustments or additions I might add to them.
 
