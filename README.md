@@ -1,4 +1,11 @@
-## Hi there! 👋
-I'm currently learning to be a web developer so I'll be posting my projects here.
+## Hi there, I'm Khaled 👋
 
-![Image of a designer](https://cdn2.vectorstock.com/i/thumb-large/18/41/programmer-silhouette-working-on-his-computer-vector-3011841.jpg)<img align="right">
+# _**KHALED MOHAMED**_ 
+
+![Image of cartoonish character on a laptop](https://i.imgur.com/Bu9WvET.jpg)
+
+
+#### A web developer who's learning to master his craft, and on my github is where I'll be posting my projects and any 
+#### adjustments or additions I might add to them.
+
+###### If there's something you'd like to ask me, correct for me or just would like to chat, feel very welcome to.
