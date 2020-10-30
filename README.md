@@ -1,9 +1,8 @@
-### Hi there 👋
-
+## Hi there! 👋
+![Image of a designer](https://previews.123rf.com/images/olenaboldyreva/olenaboldyreva1807/olenaboldyreva180700040/114905343-programmer-working-at-computer-teenager-in-headphones-sitting-stooping-at-laptop-hand-drawn-vector-i.jpg)
 <!--
 **KhaledMhmd/KhaledMhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm currently learning to be a web developer so I'll be posting my projects here.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
